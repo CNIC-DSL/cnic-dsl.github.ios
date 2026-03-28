@@ -81,8 +81,8 @@ body {
 }
 
 .logo {
-    width: 230px;
-    height: 76px;
+    width: 240px;
+    height: 80px;
     /* background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); */
     border-radius: 12px;
 }
@@ -147,8 +147,8 @@ body {
     }
 
     .logo {
-        width: 188px;
-        height: 63px;
+        width: 195px;
+        height: 66px;
     }
 
     .lab-name {
